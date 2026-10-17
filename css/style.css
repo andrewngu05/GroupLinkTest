@@ -10,8 +10,14 @@ nav a {
     margin: 0 1rem;
 }
 
+.recipe {
+    margin-top: 1.5rem;
+}
+
 .recipe img {
     width: 300px;
+    height: 300px;
+    object-fit: cover;
 }
 
 footer {
