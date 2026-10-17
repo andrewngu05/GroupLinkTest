@@ -11,16 +11,13 @@ nav a {
 }
 
 .recipe {
-    border: 2px solid #8b4f3f;
-    border-radius: 8px;
-    padding: 1rem;
-    margin: 1rem auto;
-    max-width: 400px;
+    margin-top: 1.5rem;
 }
 
 .recipe img {
     width: 300px;
-
+    height: 300px;
+    object-fit: cover;
 }
 
 footer {
